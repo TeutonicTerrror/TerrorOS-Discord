@@ -1,12 +1,13 @@
 /**
  * @name TerrorOS
- * @description a tui-style discord theme. midnight-black dark mode with red accents and rounded corners.
+ * @description Remaster of System24, in a midnight red style.
  * @author TeutonicTerror
  * @version 1.0.0
  * @website https://ko-fi.com/teutonic
+ * @source https://github.com/TeutonicTerrror/TerrorOS-Discord/blob/main/terroros.theme.css
 */
 
-@import url('https://refact0r.github.io/system24/build/system24.css'); /* yeah it's just a recolor of system24 :( */
+@import url('https://refact0r.github.io/system24/build/system24.css');
 
 body {
     --font: 'JetBrainsMono Nerd Font';
