@@ -115,6 +115,19 @@ body {
     --purple-5: hsl(261, 30%, 48%);
 }
 
+    .content_a2f514::before {
+    display: block;
+    content: " _____         _            _   _____                    \A|_   _|__ _  _| |_ ___ _ _ (_)_|_   _|__ _ _ _ _ ___ _ _ \A  | |/ -_) || |  _/ _ \\ ' \\| / _|| |/ -_) '_| '_/ _ \\ '_|\A  |_|\\___|\\_,_|\\__\\___/_||_|_\\__||_|\\___|_| |_| \\___/_|  \A";
+    font-family: monospace;
+    white-space: pre;
+    line-height: 1.2;
+    background: linear-gradient(to right, var(--brand-360) 0%, var(--background-accent) 25%, var(--background-accent) 75%, var(--brand-360) 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-size: 200% auto;
+    animation: textShine 1.5s linear infinite reverse;
+}
+
 .wrapper__6e9f8[data-list-item-id='guildsnav___home'] > .childWrapper__6e9f8::before {
     width: 80% !important;
     height: 80% !important;
