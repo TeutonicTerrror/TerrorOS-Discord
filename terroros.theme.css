@@ -7,7 +7,7 @@
  * @source https://github.com/TeutonicTerrror/TerrorOS-Discord/blob/main/terroros.theme.css
 */
 
-@import url('https://refact0r.github.io/system24/build/system24.css');
+@import url('https://refact0r.github.io/system24/build/system24.css'); /*yes it's a recolor of Refact0r's System24CSS*/
 
 body {
     --font: 'JetBrainsMono Nerd Font';
